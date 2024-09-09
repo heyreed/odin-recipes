@@ -4,9 +4,29 @@
     color: #1d1d1d;
 }
 
+.description {
+    background-color: #efefef;
+    border-radius: 16px;
+    padding: 16px;
+}
+
 .description-text {
     font-family: Tahoma;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 18px;
     color: #3b3b3b;
+}
+
+.ingredients,
+.steps {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    color: #1d1d1d;
+}
+
+.instruction-title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: 800;
+    color: #1d1d1d;
 }
